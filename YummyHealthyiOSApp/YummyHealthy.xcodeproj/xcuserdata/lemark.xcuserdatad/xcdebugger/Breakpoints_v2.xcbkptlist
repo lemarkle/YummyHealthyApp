@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "287F906D-683A-45AA-988D-E665FB46957E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54EB1055-8145-40B7-942C-C168AC19DE4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YummyHealthy/Data/DataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A89BB678-AD2D-4F7B-A68E-B7CD978E8165"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YummyHealthy/Log/FoodView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A89BB678-AD2D-4F7B-A68E-B7CD978E8165 - d6d447895b42a8f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in YummyHealthy.FoodView.body.getter : some"
+                  moduleName = "YummyHealthy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lemark/Documents/Learn%20Swift/My%20own%20project/YummyHealthy/YummyHealthy/Log/FoodView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "A89BB678-AD2D-4F7B-A68E-B7CD978E8165 - 2da61534207be4f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in YummyHealthy.FoodView.body.getter : some"
+                  moduleName = "YummyHealthy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lemark/Documents/Learn%20Swift/My%20own%20project/YummyHealthy/YummyHealthy/Log/FoodView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "A89BB678-AD2D-4F7B-A68E-B7CD978E8165 - 5a20cc7291b33239"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in closure #2 () -&gt; () in YummyHealthy.FoodView.body.getter : some"
+                  moduleName = "YummyHealthy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lemark/Documents/Learn%20Swift/My%20own%20project/YummyHealthy/YummyHealthy/Log/FoodView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "A89BB678-AD2D-4F7B-A68E-B7CD978E8165 - ef55036faf2dee37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in closure #2 () -&gt; () in YummyHealthy.FoodView.body.getter : some"
+                  moduleName = "YummyHealthy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lemark/Documents/Learn%20Swift/My%20own%20project/YummyHealthy/YummyHealthy/Log/FoodView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
